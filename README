@@ -1,0 +1,9 @@
+# Ultrasonic Oxygen sensor
+# Stm32f0
+# Oled 2.4 inch for showing purity , flow and temprature of the oxygen 
+# smd buzzer with pwm 
+# Battery base
+# 4 page menu designed for setting limits and alarms
+# Optimized power and micro memory consumption
+# ADC , INTERRUPT , TIMERS , SPI ,UART
+# Industrial device manufactured in the Iranian market
