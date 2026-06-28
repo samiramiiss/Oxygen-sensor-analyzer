@@ -1,9 +1,20 @@
-# Ultrasonic Oxygen sensor
-# Stm32f0
-# Oled 2.4 inch for showing purity , flow and temprature of the oxygen 
-# smd buzzer with pwm 
-# Battery base
-# 4 page menu designed for setting limits and alarms
+#OXYGEN SENSOR ANALAYZER
+
+#This device was designed for one of the prominent componies in Tehran, iran. until now this design is being produced and sold.
+This design has entered the market in the field of medical engineering .
+
+#This device complements the oxygen generator in the patient's room and can detect the tempreture , Purity and Flow of the oxygen gas being produced in the room
+and then diplay it.
+if these parameters go beyond the set limits ,the device will deep.
+also these limits of the parameters can be set by useres in the menu of the device.
+this device has 4 page. and these limits can be saved in the flash memory to be permanent.
+
+# SENSOR :Ultrasonic Oxygen sensor 
+  MCU    : Stm32f0
+  DISPLAY: Oled 2.4 inch   //for showing purity , flow and temprature of the oxygen 
+  ALARM  : Active buzzer      //with pwm 
+  POWER  : Battery base
+
 # Optimized power and micro memory consumption
 # ADC , INTERRUPT , TIMERS , SPI ,UART
 # Industrial device manufactured in the Iranian market
